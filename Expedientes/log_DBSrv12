@@ -1,0 +1,37 @@
+Developer edition, not licensed for deployment.
+
+Copyright © 2001-2011, iAnywhere Solutions, Inc.
+Portions copyright © 1988-2011, Sybase, Inc. All rights reserved.
+Use of this software is governed by the Sybase License Agreement.
+Refer to http://www.sybase.com/softwarelicenses.
+
+Connection limit (licensed seats): 3
+Processors detected: 1 (containing 4 logical processors)
+Maximum number of physical processors the server will use: 1
+This server is licensed to:
+    Developer Edition
+    Restricted Use
+Running Windows 7 Build 7601 Service Pack 1 on X86_64
+Server built for X86_64 processor architecture
+315208K of memory used for caching
+Minimum cache size: 3960K, maximum cache size: 3681200K
+Using a maximum page size of 4096 bytes
+Multiprogramming level: minimum:4, current:20, maximum:80
+Automatic tuning of multiprogramming level is enabled
+Starting database "sij11_001_29_01" (D:\SIJ\Data\001\sij11_001_29_01.db) at Tue Sep 23 2014 20:43
+Performance warning: Database file "D:\SIJ\Data\001\sij11_001_29_01.db" consists of 2 disk fragments
+Opening dbspace 'seg_data' in file 'seg_data.db' for database 'sij11_001_29_01'
+Opening dbspace 'seg_index' in file 'seg_index.db' for database 'sij11_001_29_01'
+Opening dbspace 'seg_resol' in file 'seg_resol.db' for database 'sij11_001_29_01'
+Performance warning: Database file "D:\SIJ\Data\001\seg_resol.db" consists of 4 disk fragments
+Transaction log: sij11_001_29_01.log
+Starting checkpoint of "sij11_001_29_01" (sij11_001_29_01.db) at Tue Sep 23 2014 20:44
+Finished checkpoint of "sij11_001_29_01" (sij11_001_29_01.db) at Tue Sep 23 2014 20:44
+Database "sij11_001_29_01" (sij11_001_29_01.db) started at Tue Sep 23 2014 20:44
+Database server started at Tue Sep 23 2014 20:44
+Trying to start SharedMemory link ...
+    SharedMemory link started successfully
+Trying to start TCPIP link ...
+Starting on port 2638
+    TCPIP link started successfully
+Now accepting requests
