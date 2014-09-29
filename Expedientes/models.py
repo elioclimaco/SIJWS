@@ -179,3 +179,19 @@ class expediente(models.Model):
 
     class Meta:
         db_table = 'expediente'
+
+
+class ubicacion_expediente(models.Model):
+    c_org_jurisd = models.CharField(max_length=2)
+    c_org_jurisd_destino = models.CharField(max_length=2)
+    c_ubicacion = models.CharField(max_length=2)
+    l_activo = models.CharField(max_length=1)
+    l_fuera = models.CharField(max_length=1)
+    l_tip_archivo = models.CharField(max_length=1)
+    ubc_id = models.CharField(max_length=6)
+    x_desc_ubicacion = models.CharField(max_length=90)
+
+    class Meta:
+        db_table = 'ubicacion_expediente'
+
+        

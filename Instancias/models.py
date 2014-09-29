@@ -20,7 +20,8 @@ class distrito_judicial(models.Model):
 class sede(models.Model):
     c_sede = models.CharField(primary_key=True, max_length=4, db_column='c_sede')
     c_codigo_app = models.CharField(max_length=2)
-    c_distrito = models.CharField(max_length=3)
+    #c_distrito = models.CharField(max_length=3)
+    c_distrito = models.ForeignKey(distrito_judicial, related_name='distrito', db_column='c_distrito')
     c_sede_corte = models.CharField(max_length=4)
     c_sede_prin = models.CharField(max_length=4)
     l_activo = models.CharField(max_length=1)
@@ -44,7 +45,7 @@ class instancia(models.Model):
     c_org_jurisd = models.CharField(max_length=2)
     c_org_jurisd_suprema = models.CharField(max_length=2)
     c_provincia = models.CharField(max_length=4)
-    c_sede = models.ForeignKey(sede, related_name='Sede', db_column='c_sede')
+    c_sede = models.ForeignKey(sede, related_name='sede', db_column='c_sede')
     c_ubigeo = models.CharField(max_length=10)
     cod_unico_instancia = models.CharField(max_length=6)
     contador_ing = models.IntegerField()

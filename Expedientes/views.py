@@ -21,11 +21,11 @@ class ExpedientesListar(generics.ListAPIView):
 
 
 @api_view(['GET'])
-def ListarExpedientes(request):
+def ExpedientesPorJuzgado(request, distrito, juzgado):
     """
-    Lista los expedientes.
+    Lista los expedientes, por Distrito Judicial, Instancia Judicial, Anulado .
     """
     if request.method == 'GET':
-        expedientes = expediente.objects.filter(n_ano_ingreso='2014', c_instancia='I05')
+        expedientes = expediente.objects.filter(c_distrito=distrito, c_instancia=juzgado, l_anulado='S')
         serializer = ExpedienteSerializer(expedientes, many=True)
         return Response(serializer.data)
