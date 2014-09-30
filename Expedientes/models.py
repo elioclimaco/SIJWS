@@ -193,5 +193,6 @@ class ubicacion_expediente(models.Model):
 
     class Meta:
         db_table = 'ubicacion_expediente'
+        managed = True
 
-        
+
