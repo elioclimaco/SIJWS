@@ -23,28 +23,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autenticacion/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="40" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+            <state line="8" column="18" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding>
+                <element signature="e#53#95#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Autenticacion/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="50" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1005">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Instancias/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="47" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expedientes/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="46" selection-start="239" selection-end="279" vertical-scroll-proportion="0.14975041" vertical-offset="0" max-vertical-offset="601">
+            <state line="14" column="32" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -53,17 +55,44 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SIJWS/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="40" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="600">
+            <state line="35" column="19" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serializers.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Instancias/serializers.py">
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expedientes/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="48" selection-start="515" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="645">
-              <folding />
+            <state line="20" column="31" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding>
+                <element signature="e#66#589#0" expanded="false" />
+                <element signature="e#628#8237#0" expanded="false" />
+                <element signature="e#8286#8761#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instancias/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="3" selection-start="3768" selection-end="3909" vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="1035">
+              <folding>
+                <element signature="e#73#606#0" expanded="false" />
+                <element signature="e#639#1420#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Autenticacion/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="58" selection-start="893" selection-end="893" vertical-scroll-proportion="0.5163044" vertical-offset="0" max-vertical-offset="975">
+              <folding>
+                <element signature="e#53#91#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,18 +110,22 @@
         <option value="$PROJECT_DIR$/Expedientes/log_DBSrv12" />
         <option value="$PROJECT_DIR$/Expedientes/templates/expedientes/prueba.html" />
         <option value="$PROJECT_DIR$/Instancias/consultas.sql" />
-        <option value="$PROJECT_DIR$/SIJWS/urls.py" />
-        <option value="$PROJECT_DIR$/Instancias/models.py" />
         <option value="$PROJECT_DIR$/Instancias/serializers.py" />
         <option value="$PROJECT_DIR$/Expedientes/models.py" />
         <option value="$PROJECT_DIR$/Expedientes/vistasBD.py" />
-        <option value="$PROJECT_DIR$/Expedientes/serializers.py" />
         <option value="$PROJECT_DIR$/Expedientes/views.py" />
         <option value="$PROJECT_DIR$/requerimientos.txt" />
         <option value="$PROJECT_DIR$/SIJWS/settings.py" />
         <option value="$PROJECT_DIR$/Instancias/views.py" />
         <option value="$PROJECT_DIR$/Instancias/urls.py" />
         <option value="$PROJECT_DIR$/Expedientes/urls.py" />
+        <option value="$PROJECT_DIR$/Expedientes/serializers.py" />
+        <option value="$PROJECT_DIR$/Autenticacion/views.py" />
+        <option value="$PROJECT_DIR$/Instancias/models.py" />
+        <option value="$PROJECT_DIR$/Autenticacion/models.py" />
+        <option value="$PROJECT_DIR$/Autenticacion/urls.py" />
+        <option value="$PROJECT_DIR$/SIJWS/urls.py" />
+        <option value="$PROJECT_DIR$/Autenticacion/serializers.py" />
       </list>
     </option>
   </component>
@@ -198,15 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expedientes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expedientes" />
+              <option name="myItemId" value="Autenticacion" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,6 +246,15 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SIAD" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
   </component>
   <component name="RunManager" selected="Django server.SIJWS">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -434,14 +468,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1450151" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36933535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -475,34 +509,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expedientes/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="49" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIJWS/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="600">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Instancias/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="48" selection-start="515" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="40" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Instancias/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="47" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="285">
@@ -547,7 +553,9 @@
     <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="40" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="285">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,7 +596,9 @@
     <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="19" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -612,7 +622,9 @@
     <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="25" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="540">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,7 +665,9 @@
     <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="26" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="540">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -677,7 +691,9 @@
     <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="33" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="495">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -703,24 +719,9 @@
         <state line="6" column="28" selection-start="253" selection-end="270" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Instancias/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="65" selection-start="72" selection-end="134" vertical-scroll-proportion="-0.30050084" vertical-offset="225" max-vertical-offset="2310" />
-      </provider>
-    </entry>
     <entry file="file://C:/Python27/Lib/site-packages/rest_framework/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16905" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expedientes/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="197" column="0" selection-start="8763" selection-end="8763" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expedientes/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="57" selection-start="2208" selection-end="2208" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="975" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Expedientes/vistasBD.py">
@@ -738,27 +739,6 @@
         <state line="101" column="0" selection-start="2415" selection-end="2415" vertical-scroll-proportion="0.76521736" vertical-offset="1075" max-vertical-offset="1710" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="40" selection-start="739" selection-end="739" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Instancias/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="48" selection-start="515" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SIJWS/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="40" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Instancias/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="4" selection-start="208" selection-end="208" vertical-scroll-proportion="0.19966722" vertical-offset="0" max-vertical-offset="601" />
@@ -771,10 +751,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Instancias/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="48" selection-start="515" selection-end="526" vertical-scroll-proportion="0.46140352" vertical-offset="37" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expedientes/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="55" selection-start="632" selection-end="632" vertical-scroll-proportion="-0.16477273" vertical-offset="312" max-vertical-offset="840">
+          <folding>
+            <element signature="e#53#91#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autenticacion/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="23" selection-start="485" selection-end="486" vertical-scroll-proportion="0.45373666" vertical-offset="0" max-vertical-offset="562">
+          <folding>
+            <element signature="e#53#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expedientes/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="20" selection-start="719" selection-end="719" vertical-scroll-proportion="0.6284153" vertical-offset="0" max-vertical-offset="549">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autenticacion/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="50" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Expedientes/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="239" selection-end="279" vertical-scroll-proportion="0.14975041" vertical-offset="0" max-vertical-offset="601">
+        <state line="14" column="32" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autenticacion/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding>
+            <element signature="e#53#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SIJWS/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="19" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expedientes/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="31" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding>
+            <element signature="e#66#589#0" expanded="false" />
+            <element signature="e#628#8237#0" expanded="false" />
+            <element signature="e#8286#8761#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instancias/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="3" selection-start="3768" selection-end="3909" vertical-scroll-proportion="0.0" vertical-offset="436" max-vertical-offset="1035">
+          <folding>
+            <element signature="e#73#606#0" expanded="false" />
+            <element signature="e#639#1420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Autenticacion/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="58" selection-start="893" selection-end="893" vertical-scroll-proportion="0.5163044" vertical-offset="0" max-vertical-offset="975">
+          <folding>
+            <element signature="e#53#91#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

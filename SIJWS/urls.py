@@ -31,4 +31,7 @@ urlpatterns = patterns('',
 
     # Instancias
     url(r'^instancias/', include('Instancias.urls', namespace='Instancias')),
+
+    # Autenticación
+    url(r'^usuarios/', include('Autenticacion.urls', namespace='Autenticacion')),
 )
