@@ -38,10 +38,14 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'Expedientes',
     'rest_framework',
+    'corsheaders',
 )
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
+
+    # CORS Header siempre va antes del CommonMiddleware de Django
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -92,3 +96,14 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 FK_AUTO_ID=False
+
+
+# CORS configuraciones
+
+CORS_ORIGIN_WHITELIST = [
+    'app.mydomain.com',
+]
+
+CORS_ORIGIN_ALLOW_ALL = True
+
+CORS_ALLOW_CREDENTIALS = True

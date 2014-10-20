@@ -4,3 +4,4 @@ pip install markdown            # Markdown support for the browsable API.
 pip install django-filter       # Filtering support
 pip install sqlanydb            # SQL Anywhere Database Interface for Python
 pip install sqlany-django       # SQL Anywhere Django Backend
+pip install django-cors-headers # Cabeceras CORS para Django

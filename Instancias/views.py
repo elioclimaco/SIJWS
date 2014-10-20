@@ -5,7 +5,8 @@ from .serializers import *
 from .models import *
 
 class DistritoArbol(viewsets.ModelViewSet):
-    queryset = distrito_judicial.objects.filter(c_distrito=29)
+    #queryset = distrito_judicial.objects.filter(c_distrito=29)
+    queryset = distrito_judicial.objects.all()
     serializer_class = DistritoSerializer
 
 class SedeArbol(viewsets.ModelViewSet):

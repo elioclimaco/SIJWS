@@ -5,7 +5,8 @@ from django.conf.urls import patterns, url
 from .views import *
 
 urlpattern = patterns('',
-    # url(r'^juzgados/$', JuzgadoArbol, name='JuzgadoArbol')
+    url(r'^juzgados/$', JuzgadoArbol, name='JuzgadoArbol'),
+
 )
 
 
